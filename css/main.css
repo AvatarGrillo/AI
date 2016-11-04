@@ -1,0 +1,11 @@
+  .boton{
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 500;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+    text-align: center;
+  }
